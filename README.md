@@ -5,6 +5,6 @@ Sitio web desarrollado utilizando Flexbox para practicar conceptos avanzados de 
 
 CSS + Flexbox y Web Responsive, HTML.
 
-# Visualización del sitio
+# Visitando el sitio del proyecto
 
-En el archivo sitio_web.jpg se puede visualizar un screenshot de como seria el sitio web.
+El proyecto se lo puede visualizar en funcionamiento en el siguiente link: https://guidorosman.000webhostapp.com/maquetacion-flexbox/
